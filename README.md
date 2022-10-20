@@ -12,6 +12,8 @@
 
 ## 目录
 
+- [好工具周刊（第 34 期）: Excalidraw Animate, Excalidraw Claymate, dazidazi, Silk, Big Heads, Unicode Calendar Generator, Snowflakes Symbols](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-34.md)
+- [好工具周刊（第 33 期）: Ele types, SpeedCoder, Typing Practice, 自由钢琴, Compress PNG to 100KB, 图片马赛克转换器, 谐音工具](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-33.md)
 - [好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-32.md)
 - [好工具周刊（第 31 期）: Devhints, explainshell, Comm1t, Ugomoji, Face Icon Generator Z, Picas, Radix Icons](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-31.md)
 - [好工具周刊（第 30 期）: First Pull Request, Useful Forks, GitHub Statistics, OurBoard, AnimatiSS, 随机英文姓名生成器, REVERB](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-30.md)
@@ -37,7 +39,7 @@
 - [好工具周刊（第 10 期）: 【特别篇】写在第 10 期，对于这个周刊的思考, 不可见零宽字符 (invisible zero-width characters) 相关工具](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-10.md)
 - [好工具周刊（第 9 期）: tree.nathanfriend.io, ASCIIFlow, WeekToDo, Ray.so, 数字帝国, Arteater](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-9.md)
 - [好工具周刊（第 8 期）: tldraw, TableConvert, markmap, B64, 词云小工具, EmojiAI, Reshot](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-8.md)
-- [好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Visio, 鸭力巨大, SVG Silh](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-7.md)
+- [好工具周刊（第 7 期）: Diagrams, Gridzzly, TOONME, PhotoFunia, JSON Crack, 鸭力巨大, SVG Silh](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-7.md)
 - [好工具周刊（第 6 期）: Excalidraw, 正则表达式可视化编辑器, SimpleLogin, Qwerty Learner](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-6.md)
 - [好工具周刊（第 5 期）: 用 RSS 订阅竹白的 3 个方法 / 竹白转 RSS, imgggg, Screely, Kill the Newsletter!](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-5.md)
 - [好工具周刊（第 4 期）: Carbon, Logoly, QRCode Monkey, WatermarkRemover.io](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-4.md)
@@ -56,7 +58,7 @@
 
 - 微信订阅:
 
-<div style="display: flex;justify-content: center;"><a href="https://discuss-cn.bestxtools.com/d/5/2"><img width="300" src="https://cdn.jsdelivr.net/gh/bestxtools/weekly-cn@main/images/2022-03-02-16-19-29.png" alt="微信订阅"></a></div>
+<div style="display: flex;justify-content: center;"><a href="https://discuss-cn.bestxtools.com/d/5/2"><img width="300" src="https://assets.bestxtools.com/weekly-cn/main/images/2022-03-02-16-19-29.png" alt="微信订阅"></a></div>
 
 ## License
 
@@ -65,5 +67,5 @@ Copyright (c) 2022 [Pipecraft](https://www.pipecraft.net). Licensed under the [C
 ## >\_
 
 [![Pipecraft](https://img.shields.io/badge/site-pipecraft-brightgreen)](https://www.pipecraft.net)
-[![PZWD](https://img.shields.io/badge/site-pzwd-brightgreen)](https://pzwd.net)
 [![BestXTools](https://img.shields.io/badge/site-bestxtools-brightgreen)](https://www.bestxtools.com)
+[![PZWD](https://img.shields.io/badge/site-pzwd-brightgreen)](https://pzwd.net)
