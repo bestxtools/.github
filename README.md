@@ -12,6 +12,11 @@
 
 ## 目录
 
+- [好工具周刊（第 53 期）: Hacker News 网站切换器, 小鱼标签, Crunchzilla, Accordion Slider Generator, Fancy Macbook App, Make Bookmarklets](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-53.md)
+- [好工具周刊（第 52 期）: Icon Maker, Unicorn icons, Colord, CSS Generators, CopySymbol, Open Prompt, OpenGPT](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-52.md)
+- [好工具周刊（第 51 期）: 小鱼标签 (UTags), SingleFile, Scrollbar, Memo Card, OG Image Playground, 白描, Tartan Designer](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-51.md)
+- [好工具周刊（第 50 期）: grep.app, Shots, MathB, 举牌加油告白小人生成器, 全景故宫, 云游故宫](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-50.md)
+- [好工具周刊（第 49 期）: StatiCrypt, OnetimeSecret, paint-board, Graphy, Logggos, Pole Clock, tree.fm](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-49.md)
 - [好工具周刊（第 48 期）: ProfileMe, Box Shadows for TailwindCSS, Beautiful CSS checkboxes/buttons, Edit • Photo, Shapecatcher, Immersive Translate](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-48.md)
 - [好工具周刊（第 47 期）: 我最喜欢且常用的浏览器插件 - Vimium, AdBlock, uBlacklist, Tampermonkey, Stylus, MarkDownload, Google 翻译](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-47.md)
 - [好工具周刊（第 46 期）: 【特别篇】2022 年最佳免费在线工具 / The Best X Tools 2022 / 和抽奖活动](https://github.com/bestxtools/weekly-cn/blob/main/docs/issue-46.md)
@@ -82,5 +87,6 @@ Copyright (c) 2022 [Pipecraft](https://www.pipecraft.net). Licensed under the [C
 
 [![Pipecraft](https://img.shields.io/badge/site-pipecraft-brightgreen)](https://www.pipecraft.net)
 [![DTO](https://img.shields.io/badge/site-DTO-brightgreen)](https://dto.pipecraft.net)
+[![UTags](https://img.shields.io/badge/site-UTags-brightgreen)](https://utags.pipecraft.net)
 [![BestXTools](https://img.shields.io/badge/site-bestxtools-brightgreen)](https://www.bestxtools.com)
 [![PZWD](https://img.shields.io/badge/site-pzwd-brightgreen)](https://pzwd.net)
