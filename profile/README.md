@@ -1,5 +1,9 @@
 # 好工具周刊
 
+> ## 这个周刊已停止更新。请大家关注 [UTags (小鱼标签)](https://github.com/utags/utags) 项目。
+>
+> [https://github.com/utags/utags](https://github.com/utags/utags)
+
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 BestXTools 创作。
 
 好工具周刊同时发布到三个平台，订阅方式提供多种选择。
